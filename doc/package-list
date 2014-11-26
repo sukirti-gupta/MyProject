@@ -1,0 +1,9 @@
+com.impetus.bookstore.DAO.test
+com.impetus.bookstore.controller
+com.impetus.bookstore.dao
+com.impetus.bookstore.exceptions
+com.impetus.bookstore.model
+com.impetus.bookstore.other
+com.impetus.bookstore.service
+com.impetus.bookstore.service.test
+com.impetus.bookstore.validators

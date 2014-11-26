@@ -1,0 +1,15 @@
+com\impetus\bookstore\DAO\test\SubscriptionDAOTest.class
+com\impetus\bookstore\service\test\SearchServiceImplTest.class
+com\impetus\bookstore\service\test\BooksServiceTest.class
+com\impetus\bookstore\service\test\MailServiceTest.class
+com\impetus\bookstore\service\test\RequestServiceTest.class
+com\impetus\bookstore\service\test\FileServiceTest.class
+com\impetus\bookstore\DAO\test\RequestDAOTest.class
+com\impetus\bookstore\DAO\test\UserDAOTest.class
+com\impetus\bookstore\DAO\test\BooksDAOTest.class
+com\impetus\bookstore\DAO\test\RecommendationDAOTest.class
+com\impetus\bookstore\service\test\NotifyServiceTest.class
+com\impetus\bookstore\service\test\UserServiceTest.class
+com\impetus\bookstore\service\test\SubserviceTest.class
+com\impetus\bookstore\DAO\test\FileDAOTest.class
+com\impetus\bookstore\service\test\RecommServiceTest.class
