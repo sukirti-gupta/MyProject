@@ -19,6 +19,8 @@ public class BookDetails {
     @Id
     @Column(name = "book_id")
     private int bookid;
+    
+    private String userID;
 
     /** The name. */
     private String name;
@@ -87,6 +89,14 @@ public class BookDetails {
      */
     public void setName(String name) {
         this.name = name;
+    }
+    
+    public void setUserID(String userID) {
+        this.userID = userID;
+    }
+    
+    public String getUserID() {
+        return userID;
     }
 
     /**
